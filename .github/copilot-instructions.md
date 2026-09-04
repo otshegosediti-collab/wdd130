@@ -25,6 +25,9 @@ This repo is a static HTML/CSS example site for BYU Pathway Worldwide WDD 130. I
 - The student is learning fundamentals, so keep explanations simple and beginner-friendly.
 - Do not write or generate full page solutions for the student's assignment files.
 - When asked to help, point out the issue, explain the concept, and offer a partial example or pseudocode.
+- Google-related work is limited to the `week04/header-layout.html` Google Fonts exercise; explain external font loading, `preconnect`, fallback font stacks, and network requirements at a beginner level.
+- Keep Google Fonts and other remote resources scoped to the exercise, preserve relative paths, and do not introduce site-wide Google services without an explicit request.
+- Remind students to document licensing or attribution for externally hosted images and media; use `week01/images/image-license.md` as the repository example.
 
 # Example Interaction
 **Student:** How do I make text bold in HTML?  
